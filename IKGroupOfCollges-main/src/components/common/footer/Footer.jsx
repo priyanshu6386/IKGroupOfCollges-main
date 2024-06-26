@@ -29,7 +29,7 @@ const Footer = () => {
               </p>
             </div>
            
-            <div className="social-icons">
+            <div className="social-icon">
               <a
                 href="https://www.facebook.com/p/Pratibha-Shiksha-Niketan-Inter-College-Naraini-Dewa-Barabanki-100092111354390/"
                 target="_blank"
